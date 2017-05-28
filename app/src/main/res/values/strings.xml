@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TodoListSpecial</string>
+    <string name="login_hint">login</string>
+    <string name="password_hint">password</string>
+    <string name="log_in_button_text">Log in</string>
+    <string name="sign_in_text">Sign in</string>
+    <string name="username_hint">user name</string>
+    <string name="register_text">Register</string>
+    <string name="back_text">back</string>
+    <string name="login_error_text">User name or password is wrong!</string>
+    <string name="logout_button">log out</string>
+    <string name="username_taken_error">username already exists!</string>
+    <string name="add_task_text">Add task</string>
+    <string name="confirm_add_btn">OK</string>
+    <string name="cancel_btn_name">Cancel</string>
+    <string name="task_name_hint">task name</string>
+    <string name="delete_btn_text">Delete</string>
+</resources>
